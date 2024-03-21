@@ -1,2 +1,2 @@
-# CODSOFT
-My projects along with internship at codsoft.
+# Python projects
+My projects made using python.
